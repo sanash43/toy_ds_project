@@ -2,3 +2,5 @@
 For DSCI100 worksheet_version_control 
 
 Project creation date: October 7, 2022
+
+Author: Sana Shams
